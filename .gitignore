@@ -2,6 +2,7 @@ venv/
 .env
 Fundamentals/__pycache__/
 Fundamentals_level_2/__pycache__/
+Fundamentals_level_3/__pycache__/
 *.pyc
 .DS_Store
 .idea/
