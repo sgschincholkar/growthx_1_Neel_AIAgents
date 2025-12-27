@@ -1,5 +1,7 @@
 # NoobBook
 
+NoobBook Has new home -> https://noobBookLm.com
+
 An educational NotebookLM clone built to teach AI/LLM integration patterns.
 
 ---
